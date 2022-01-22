@@ -1,2 +1,2 @@
 # FirstCode
-this is first code
+this is first code with Django
